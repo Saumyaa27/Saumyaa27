@@ -3,8 +3,7 @@ I am Saumyaa!! Currently, I am pursuing BE (Third year) in Computer Engineering 
 
 <!--
 **Saumyaa27/Saumyaa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Disease Prediction and Patient Management System.
 - 🌱 I’m currently learning DSA, Django
@@ -13,6 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: saumyaamathur27@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read, write, bake, doodle and make chocolates!
--->
+
+<br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Saumyaa27)
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=Saumyaa27&color=dc143c)
