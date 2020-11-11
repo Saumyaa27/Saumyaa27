@@ -1,16 +1,18 @@
 ### Hi there 👋
+I am Saumyaa!! Currently, I am pursuing BE (Third year) in Computer Engineering from Thapar Institute of Engineering and Technology, Patiala, Punjab.
 
 <!--
 **Saumyaa27/Saumyaa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Disease Prediction and Patient Management System.
+- 🌱 I’m currently learning DSA, Django
+- 👯 I’m looking to collaborate on Web Development projects
+- 💬 Ask me about anything, I'll be more than happy to help you out . I also might end up learning something new!
+- 📫 How to reach me: saumyaamathur27@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to read, write, bake, doodle and make chocolates!
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=Saumyaa27)
+![](https://komarev.com/ghpvc/?username=Saumyaa27&color=dc143c)
