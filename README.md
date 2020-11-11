@@ -4,18 +4,18 @@ I am Saumyaa!! Currently, I am pursuing BE (Third year) in Computer Engineering 
 <!--
 **Saumyaa27/Saumyaa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-  <HR>
+
     
 ![](https://komarev.com/ghpvc/?username=Saumyaa27&color=dc143c)
 
   <HR>
-- 🔭 I’m currently working on Disease Prediction and Patient Management System.
-- 🌱 I’m currently learning DSA, Django
-- 👯 I’m looking to collaborate on Web Development projects
-- 💬 Ask me about anything, I'll be more than happy to help you out . Also, I might end up learning something new!
-- 📫 How to reach me: saumyaamathur27@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to read, write, bake, doodle and make chocolates!
+- 🔭 I’m currently working on Disease Prediction and Patient Management System.<br>
+- 🌱 I’m currently learning DSA, Django.<br>
+- 👯 I’m looking to collaborate on Web Development projects. <br>
+- 💬 Ask me about anything, I'll be more than happy to help you out . Also, I might end up learning something new! <br>
+- 📫 How to reach me: saumyaamathur27@gmail.com <br>
+- 😄 Pronouns: She/Her <br>
+- ⚡ Fun fact: I love to read, write, bake, doodle and make chocolates! <br>
 <HR>
 <br>
 My personal blog: 
