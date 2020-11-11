@@ -20,7 +20,7 @@ https://saumyaa27.github.io/my-portfolio/
 <br>
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Saumyaa27)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Saumyaa27&color=blue)
 
 <br>
 
