@@ -18,7 +18,7 @@ I am Saumyaa!! Currently, I am pursuing BE (Third year) in Computer Engineering 
 - ⚡ Fun fact: I love to read, write, bake, doodle and make chocolates! <br>
 <HR>
 <br>
-My personal blog: 
+Know me more: 
 <br>
 https://saumyaa27.github.io/my-portfolio/
 <br>
