@@ -11,7 +11,7 @@ I am Saumyaa!! Currently, I am pursuing BE (Third year) in Computer Engineering 
   <HR>
 - 🔭 I’m currently working on Disease Prediction and Patient Management System.<br>
 - 🌱 I’m currently learning DSA, Django.<br>
-- 👯 I’m looking to collaborate on Web Development projects. <br>
+- 👯 I’m looking to collaborate on Web Development, python projects. <br>
 - 💬 Ask me about anything, I'll be more than happy to help you out . Also, I might end up learning something new! <br>
 - 📫 How to reach me: saumyaamathur27@gmail.com <br>
 - 😄 Pronouns: She/Her <br>
