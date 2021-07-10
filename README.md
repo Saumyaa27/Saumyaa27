@@ -9,9 +9,9 @@ I am Saumyaa!! Currently, I am pursuing BE (Third year) in Computer Engineering 
 ![](https://komarev.com/ghpvc/?username=Saumyaa27&color=dc143c)
 
   <HR>
-- 🔭 I’m currently working on Multithreading based ETL process.<br>
-- 🌱 I’m currently learning DSA.<br>
-- 👯 I’m looking to collaborate on Web Development, python projects. <br>
+- 🔭 I’m currently working on DBMS.<br>
+- 🌱 I’m currently learning DSA, Django.<br>
+- 👯 I’m looking to collaborate on Web Development(html,css,Django), python, ML, DL, MySQL projects. <br>
 - 💬 Ask me about anything, I'll be more than happy to help you out . Also, I might end up learning something new! <br>
 - 📫 How to reach me: saumyaamathur27@gmail.com <br>
 - 😄 Pronouns: She/Her <br>
